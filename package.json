@@ -1,6 +1,6 @@
 {
   "name": "dagre",
-  "version": "0.9.0",
+  "version": "0.1.0",
   "description": "Graph layout for JavaScript",
   "author": "Chris Pettitt <cpettitt@gmail.com>",
   "contributors": [
@@ -37,6 +37,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dagrejs/dagre.git"
+    "url": "https://github.com/alchemistake/yet-another-dagre-fork.git"
   }
 }
